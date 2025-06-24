@@ -1,0 +1,127 @@
+#brands {
+    margin-top: 0.8rem;
+    height: 50px;
+    width: 100%;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    display: flex;
+    align-items: center;
+}
+
+#brands>h3 {
+    margin-left: 4rem;
+}
+
+#brand-images {
+    width: 90%;
+    margin-left: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+#aoc {
+    height: 150px;
+    width: 150px;
+}
+
+#bajaj {
+    height: 190px;
+    width: 170px;
+}
+
+#blackberry {
+    height: 150px;
+    width: 170px;
+}
+
+#canon {
+    height: 150px;
+    width: 170px;
+}
+
+#compaq {
+    height: 150px;
+    width: 170px;
+}
+
+#daikin {
+    height: 150px;
+    width: 190px;
+}
+
+#footer {
+    height: 250px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#footer1 {
+    margin-left: 100px;
+}
+
+#footer1 h2 {
+    color: #FE6C6C;
+    font-size: 2rem;
+}
+
+#footer1 p {
+    margin-top: 1.2rem;
+}
+
+#footer2 {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#footer2 h3 {
+    font-size: 1.5rem;
+}
+
+#f-1 {
+    display: flex;
+    margin-top: 2rem;
+    border-bottom: 1px solid black;
+    gap: 5rem;
+}
+
+
+#f-2 {
+    margin-top: 1rem;
+    display: flex;
+    border-bottom: 1px solid black;
+    gap: 8rem;
+}
+
+
+#f-3 {
+    margin-top: 1rem;
+    display: flex;
+    border-bottom: 1px solid black;
+    gap: 8.5rem;
+}
+
+#footer-3 {
+    margin-right: 200px;
+}
+
+#fl-1 {
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+}
+
+#fl-2 {
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+}
+
+#fl-3 {
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+}
