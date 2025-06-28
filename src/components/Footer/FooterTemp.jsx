@@ -8,24 +8,12 @@ function Footer() {
         <h3>OUR BRANDS</h3>
       </div>
       <div id="brand-images">
-        <img id="aoc" src="./public/images/logo5-removebg-preview.png" alt="" />
-        <img id="bajaj" src="./public/images/logo6.png" alt="" />
-        <img
-          id="blackberry"
-          src="./public/images/logo4-removebg-preview.png"
-          alt=""
-        />
-        <img id="canon" src="./public/images/logo1.png" alt="" />
-        <img
-          id="compaq"
-          src="./public/images/logo2-removebg-preview.png"
-          alt=""
-        />
-        <img
-          id="daikin"
-          src="./public/images/logo3-removebg-preview.png"
-          alt=""
-        />
+        <img id="aoc" src="./images/logo5-removebg-preview.png" alt="" />
+        <img id="bajaj" src="./images/logo6.png" alt="" />
+        <img id="blackberry" src="./images/logo4-removebg-preview.png" alt="" />
+        <img id="canon" src="./images/logo1.png" alt="" />
+        <img id="compaq" src="./images/logo2-removebg-preview.png" alt="" />
+        <img id="daikin" src="./images/logo3-removebg-preview.png" alt="" />
       </div>
       <div id="footer">
         <div id="footer1">

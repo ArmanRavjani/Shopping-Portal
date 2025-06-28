@@ -51,7 +51,7 @@ export default function Home() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item1.jpeg')",
+                backgroundImage: "url('./images/item1.jpeg')",
                 height: "400px",
               }}
             ></div>
@@ -65,7 +65,7 @@ export default function Home() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item2.jpeg')",
+                backgroundImage: "url('./images/item2.jpeg')",
                 backgroundSize: "cover",
                 backgroundRepeat: "no-repeat",
                 backgroundPosition: "center",
@@ -82,7 +82,7 @@ export default function Home() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item3.jpeg')",
+                backgroundImage: "url('./images/item3.jpeg')",
                 backgroundSize: "cover",
                 backgroundRepeat: "no-repeat",
                 backgroundPosition: "center",
@@ -99,7 +99,7 @@ export default function Home() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item4.jpeg')",
+                backgroundImage: "url('./images/item4.jpeg')",
                 height: "400px",
               }}
             ></div>
@@ -113,7 +113,7 @@ export default function Home() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item5.jpeg')",
+                backgroundImage: "url('./images/item5.jpeg')",
                 height: "400px",
               }}
             ></div>
@@ -127,7 +127,7 @@ export default function Home() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item6.jpeg')",
+                backgroundImage: "url('./images/item6.jpeg')",
                 height: "400px",
               }}
             ></div>
@@ -141,7 +141,7 @@ export default function Home() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item7.jpeg')",
+                backgroundImage: "url('./images/item7.jpeg')",
                 backgroundSize: "auto",
                 backgroundRepeat: "no-repeat",
                 backgroundPosition: "center",
@@ -158,7 +158,7 @@ export default function Home() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item8.jpeg')",
+                backgroundImage: "url('./images/item8.jpeg')",
                 height: "400px",
               }}
             ></div>
