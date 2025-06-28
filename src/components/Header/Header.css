@@ -164,7 +164,7 @@ body {
     gap: 4rem;
 }
 
-#nav-end-div>#home.active:hover {
+#nav-end-div>#home:hover {
     height: 70px;
     width: 6vw;
     background-color: red;
@@ -173,7 +173,7 @@ body {
     justify-content: center;
 }
 
-#nav-end-div>#books.active:hover {
+#nav-end-div>#books:hover {
     height: 70px;
     width: 6vw;
     background-color: red;
@@ -182,7 +182,7 @@ body {
     justify-content: center;
 }
 
-#nav-end-div>#electronics.active:hover {
+#nav-end-div>#electronics:hover {
     height: 70px;
     width: 8.5vw;
     background-color: red;
@@ -191,7 +191,7 @@ body {
     justify-content: center;
 }
 
-#nav-end-div>#furniture.active:hover {
+#nav-end-div>#furniture:hover {
     height: 70px;
     width: 7.2vw;
     background-color: red;
@@ -200,7 +200,7 @@ body {
     justify-content: center;
 }
 
-#nav-end-div>#fashion.active:hover {
+#nav-end-div>#fashion:hover {
     height: 70px;
     width: 6.2vw;
     background-color: red;
@@ -247,18 +247,44 @@ body {
     }
 
     #nav-end {
-        min-height: 70px;
-        min-width: 100%;
+        min-height: 0px;
+        max-width: 100%;
         display: flex;
         align-items: center;
         justify-content: center;
     }
 
     #nav-end-div {
+        height: 70px;
+        width: 100%;
         display: flex;
         align-items: center;
         justify-content: flex-start;
+        gap: 4.2rem;
     }
 
+    #nav-end-div h4 {
+        font-size: 1rem;
+        margin-left: -35px;
+    }
 
+    #nav-end-div>#home:hover {
+        display: none;
+    }
+
+    #nav-end-div>#books:hover {
+        display: none;
+    }
+
+    #nav-end-div>#electronics:hover {
+        display: none;
+    }
+
+    #nav-end-div>#furniture:hover {
+        display: none;
+    }
+
+    #nav-end-div>#fashion:hover {
+        display: none;
+    }
 }
