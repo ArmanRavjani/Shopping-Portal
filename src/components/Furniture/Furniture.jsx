@@ -11,7 +11,7 @@ function Furniture() {
           <div className="box-content">
             <div
               className="box-img"
-              style={{ backgroundImage: "url('./public/images/item1.jpeg')" }}
+              style={{ backgroundImage: "url('/images/item1.jpeg')" }}
             ></div>
             <h4>VIVO T4X 5G</h4>
             <h4 className="price">RS.14500.00</h4>
@@ -22,7 +22,7 @@ function Furniture() {
           <div className="box-content">
             <div
               className="box-img"
-              style={{ backgroundImage: "url('./public/images/item1.jpeg')" }}
+              style={{ backgroundImage: "url('/images/item1.jpeg')" }}
             ></div>
             <h4>VIVO T4X 5G</h4>
             <h4 className="price">RS.14500.00</h4>
@@ -33,7 +33,7 @@ function Furniture() {
           <div className="box-content">
             <div
               className="box-img"
-              style={{ backgroundImage: "url('./public/images/item1.jpeg')" }}
+              style={{ backgroundImage: "url('/images/item1.jpeg')" }}
             ></div>
             <h4>VIVO T4X 5G</h4>
             <h4 className="price">RS.14500.00</h4>
@@ -44,7 +44,7 @@ function Furniture() {
           <div className="box-content">
             <div
               className="box-img"
-              style={{ backgroundImage: "url('./public/images/item1.jpeg')" }}
+              style={{ backgroundImage: "url('/images/item1.jpeg')" }}
             ></div>
             <h4>VIVO T4X 5G</h4>
             <h4 className="price">RS.14500.00</h4>
@@ -57,7 +57,7 @@ function Furniture() {
           <div className="box-content">
             <div
               className="box-img"
-              style={{ backgroundImage: "url('./public/images/item1.jpeg')" }}
+              style={{ backgroundImage: "url('/images/item1.jpeg')" }}
             ></div>
             <h4>VIVO T4X 5G</h4>
             <h4 className="price">RS.14500.00</h4>
@@ -68,7 +68,7 @@ function Furniture() {
           <div className="box-content">
             <div
               className="box-img"
-              style={{ backgroundImage: "url('./public/images/item1.jpeg')" }}
+              style={{ backgroundImage: "url('/images/item1.jpeg')" }}
             ></div>
             <h4>VIVO T4X 5G</h4>
             <h4 className="price">RS.14500.00</h4>
@@ -79,7 +79,7 @@ function Furniture() {
           <div className="box-content">
             <div
               className="box-img"
-              style={{ backgroundImage: "url('./public/images/item1.jpeg')" }}
+              style={{ backgroundImage: "url('/images/item1.jpeg')" }}
             ></div>
             <h4>VIVO T4X 5G</h4>
             <h4 className="price">RS.14500.00</h4>
@@ -90,7 +90,7 @@ function Furniture() {
           <div className="box-content">
             <div
               className="box-img"
-              style={{ backgroundImage: "url('./public/images/item1.jpeg')" }}
+              style={{ backgroundImage: "url('/images/item1.jpeg')" }}
             ></div>
             <h4>VIVO T4X 5G</h4>
             <h4 className="price">RS.14500.00</h4>

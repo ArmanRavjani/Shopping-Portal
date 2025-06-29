@@ -13,7 +13,7 @@ function Books() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item9.jpeg')",
+                backgroundImage: "url('/images/item9.jpeg')",
                 height: "400px",
               }}
             ></div>
@@ -27,7 +27,7 @@ function Books() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item10.jpeg')",
+                backgroundImage: "url('/images/item10.jpeg')",
                 height: "400px",
               }}
             ></div>
@@ -41,7 +41,7 @@ function Books() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item11.jpeg')",
+                backgroundImage: "url('/images/item11.jpeg')",
                 height: "400px",
               }}
             ></div>
@@ -55,7 +55,7 @@ function Books() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item12.jpeg')",
+                backgroundImage: "url('/images/item12.jpeg')",
                 height: "400px",
               }}
             ></div>
@@ -71,7 +71,7 @@ function Books() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item13.jpeg')",
+                backgroundImage: "url('/images/item13.jpeg')",
                 height: "400px",
               }}
             ></div>
@@ -85,7 +85,7 @@ function Books() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item14.jpeg')",
+                backgroundImage: "url('/images/item14.jpeg')",
                 height: "400px",
               }}
             ></div>
@@ -99,7 +99,7 @@ function Books() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item15.jpeg')",
+                backgroundImage: "url('/images/item15.jpeg')",
                 height: "400px",
               }}
             ></div>
@@ -113,7 +113,7 @@ function Books() {
             <div
               className="box-img"
               style={{
-                backgroundImage: "url('./public/images/item16.jpeg')",
+                backgroundImage: "url('/images/item16.jpeg')",
                 height: "400px",
               }}
             ></div>
