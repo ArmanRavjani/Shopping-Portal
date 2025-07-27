@@ -209,15 +209,25 @@ body {
     justify-content: center;
 }
 
-@media screen and (width < 800px) {
+@media (max-width: 768px) {
     #navbar {
         min-height: 80px;
         min-width: 100%;
-        padding: 2vw 0vw;
+        padding: 2% 0vw;
         display: flex;
         align-items: center;
         justify-content: space-evenly;
         border-bottom: 1px solid gray;
+    }
+
+    #navbar>#nav1 {
+        min-height: 80px;
+        min-width: 100%;
+        margin-left: 1rem;
+    }
+
+    #navbar>#nav2 {
+        display: none;
     }
 
     #nav-center {
@@ -226,12 +236,13 @@ body {
         display: flex;
         align-items: center;
         justify-content: space-evenly;
+        gap: 0.5rem;
     }
 
     #nav-center>h2 {
-        font-size: 25px;
+        font-size: 20px;
         color: #FE6C6C;
-        margin-left: 1rem;
+        margin-left: 0.5rem;
     }
 
     #nav-search {
